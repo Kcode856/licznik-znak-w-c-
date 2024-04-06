@@ -1,0 +1,16 @@
+C:\Users\kubah\Desktop\licznikznakow\licznikznakow\bin\Debug\net8.0-windows\licznikznakow.exe
+C:\Users\kubah\Desktop\licznikznakow\licznikznakow\bin\Debug\net8.0-windows\licznikznakow.deps.json
+C:\Users\kubah\Desktop\licznikznakow\licznikznakow\bin\Debug\net8.0-windows\licznikznakow.runtimeconfig.json
+C:\Users\kubah\Desktop\licznikznakow\licznikznakow\bin\Debug\net8.0-windows\licznikznakow.dll
+C:\Users\kubah\Desktop\licznikznakow\licznikznakow\bin\Debug\net8.0-windows\licznikznakow.pdb
+C:\Users\kubah\Desktop\licznikznakow\licznikznakow\obj\Debug\net8.0-windows\licznikznakow.Form1.resources
+C:\Users\kubah\Desktop\licznikznakow\licznikznakow\obj\Debug\net8.0-windows\licznikznakow.csproj.GenerateResource.cache
+C:\Users\kubah\Desktop\licznikznakow\licznikznakow\obj\Debug\net8.0-windows\licznikznakow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubah\Desktop\licznikznakow\licznikznakow\obj\Debug\net8.0-windows\licznikznakow.AssemblyInfoInputs.cache
+C:\Users\kubah\Desktop\licznikznakow\licznikznakow\obj\Debug\net8.0-windows\licznikznakow.AssemblyInfo.cs
+C:\Users\kubah\Desktop\licznikznakow\licznikznakow\obj\Debug\net8.0-windows\licznikznakow.csproj.CoreCompileInputs.cache
+C:\Users\kubah\Desktop\licznikznakow\licznikznakow\obj\Debug\net8.0-windows\licznikznakow.dll
+C:\Users\kubah\Desktop\licznikznakow\licznikznakow\obj\Debug\net8.0-windows\refint\licznikznakow.dll
+C:\Users\kubah\Desktop\licznikznakow\licznikznakow\obj\Debug\net8.0-windows\licznikznakow.pdb
+C:\Users\kubah\Desktop\licznikznakow\licznikznakow\obj\Debug\net8.0-windows\licznikznakow.genruntimeconfig.cache
+C:\Users\kubah\Desktop\licznikznakow\licznikznakow\obj\Debug\net8.0-windows\ref\licznikznakow.dll
